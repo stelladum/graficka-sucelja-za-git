@@ -1,0 +1,1 @@
+# graficka-sucelja-za-git
