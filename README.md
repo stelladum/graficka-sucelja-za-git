@@ -1,4 +1,4 @@
 # graficka-sucelja-za-git
-Dumenčić Stella<br/>
-Šćulac Robin<br/>
-Šafar Sandro
+Dumenčić Stella 33%<br/>
+Šćulac Robin 33%<br/>
+Šafar Sandro 33 %
